@@ -6,8 +6,8 @@ function App() {
   return (
     <AuthProvider>
       <div
-        className="d-flex justify-content-center align-items-center"
-        style={{ minHeight: "100vh" }}
+        className="d-flex justify-content-center align-items-center main_container"
+        style={{ minHeight: "100vh"}}
       >
         <div className="text-center">
           <header className="mb-5">
